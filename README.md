@@ -1,6 +1,6 @@
 # DDPM on MNIST and SVHN
 
-The model is trained to generate digit 0~9 on MNIST (class 0~9) and SVHN (class 10~19).
+The model is trained to generate digit 0-9 on MNIST (class 0-9) and SVHN (class 10-19).
 
 ## Usage
 
